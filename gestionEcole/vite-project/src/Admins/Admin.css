@@ -1,0 +1,23 @@
+.divP {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.divP h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.divP nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.divP nav ul li {
+    margin-right: 20px;
+}
+
+.divP nav ul li a {
+    text-decoration: none;
+}
